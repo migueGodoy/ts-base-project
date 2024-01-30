@@ -1,0 +1,20 @@
+{
+  "name": "ts-base-project",
+  "version": "1.0.0",
+  "description": "Typescript base project with testing and linter",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "typescript",
+    "eslint",
+    "jest",
+    "tsc"
+  ],
+  "author": "Migue Godoy",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.3.3"
+  }
+}
