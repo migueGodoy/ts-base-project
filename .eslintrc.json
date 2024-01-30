@@ -12,6 +12,8 @@
 		"semi": ["error", "always"],
 		"indent": ["error", "tab"],
 		"no-trailing-spaces": "error",
-		"padded-blocks": ["error", "never"]
+		"padded-blocks": ["error", "never"],
+		"space-infix-ops": "error",
+		"space-before-function-paren": "error"
     }
 }
